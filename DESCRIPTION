@@ -10,5 +10,7 @@ RoxygenNote: 7.3.2
 Imports:
     ggplot2 (>= 3.5.0),
     savedataR
+Remotes:
+    ljmotley/savedataR
 Suggests:
     testthat
